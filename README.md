@@ -7,6 +7,33 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: abhishek@jklgroup.in | abmishra0039@gmail.com
 - ⚡ Fun fact: Cricket is my favorite sport
 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/abhishek-misra/)
+[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/9263070?style=flat&logo=stackoverflow&label=StackOverflow%20Reputation)](https://stackoverflow.com/users/9263070/abhishek) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abmishra0039)
+[![C#Corner](https://img.shields.io/badge/C%23_Corner-blue)](https://www.c-sharpcorner.com/members/ami-mishra2)
+
+## 🧑‍💻 Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+</div>
+
 ## 📊 GitHub Stats
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=abhishek-misra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -21,3 +48,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abhishek-misra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+###
+
+<img src="https://raw.githubusercontent.com/abhishek-misra/abhishek-misra/output/snake.svg" alt="Snake animation" />
+
+###
