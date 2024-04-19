@@ -1,5 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Abhishek Mishra
-======================================================================================================================================
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&font=Fira+Code&pause=1000&color=BE6EC5&background=CDFF7200&random=false&width=555&size=32&weight=600&height=50">
+</p>
+
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Abhishek Mishra
+
 <h4>I craft tech solutions for business excellence | Shaping the Future at <a href="https://jklgroup.in/">JKL Infotech LLP</a> </h4>
 
 - 🔭 Exploring Web 3.0 , IOT and NFT
