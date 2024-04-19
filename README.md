@@ -8,13 +8,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - ⚡ Fun fact: Cricket is my favorite sport
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/abhishek-misra/)
-[![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/9263070?style=flat&logo=stackoverflow&label=StackOverflow%20Reputation)](https://stackoverflow.com/users/9263070/abhishek) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abmishra0039)
-[![C#Corner](https://img.shields.io/badge/C%23_Corner-blue)](https://www.c-sharpcorner.com/members/ami-mishra2)
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/abhishek-misra/">
+        <img alt="LinkedIn" title="LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://stackoverflow.com/users/9263070/abhishek/">
+        <img alt="StackOverflow" title="StackOverflow"
+            src="https://img.shields.io/stackexchange/stackoverflow/r/9263070?style=for-the-badge&logo=stackoverflow&label=StackOverflow%20Reputation" /></a>
+    <a href="https://medium.com/@@abmishra0039">
+        <img alt="Medium" title="Medium"
+            src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/" /></a>
+    <a href="https://www.c-sharpcorner.com/members/ami-mishra2"><img alt="Static Badge" src="https://img.shields.io/badge/C%23Corner-blue?style=for-the-badge"></a>
+</p>
 
 ## 🧑‍💻 Technologies
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
@@ -36,9 +45,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## 📊 GitHub Stats
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=abhishek-misra&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-misra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=abhishek-misra&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=abhishek-misra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-misra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=abhishek-misra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ## 🏆 Trophies
